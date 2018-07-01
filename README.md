@@ -1,3 +1,5 @@
+# Archived version of the project that is kept for historical purposes.
+
 #**Finding Lane Lines on the Road** 
 <img src="laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
